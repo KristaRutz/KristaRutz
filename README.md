@@ -1,4 +1,4 @@
-![Hello, I'm Krista Rutz: Software Engineer and Web Developer](https://github.com/KristaRutz/KristaRutz/bio-header.png)
+![Hello, I'm Krista Rutz: Software Engineer and Web Developer](https://github.com/KristaRutz/KristaRutz/blob/master/bio-header.png)
 
 #### **Currently** .. 
 I'm the _Software Engineer Intern_ at [@EchoEcho](www.github.com/echoecho), where I work mainly with React and JavaScript in an Agile, TDD environment. 
