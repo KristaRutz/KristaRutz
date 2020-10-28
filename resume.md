@@ -1,7 +1,7 @@
-# Krista Rutz
+# KRISTA RUTZ
 
 
-### <kristarutz@gmail.com> • (206)-556-8247 
+<kristarutz@gmail.com> • (206)-556-8247 
 
 [kristarutz.com](http://www.kristarutz.com "Krista's personal site") • [LinkedIn](http://www.linkedin.com/in/kristarutz "Krista's LinkedIn profile") • [GitHub](http://www.github.com/KristaRutz "Krista's GitHub portfolio")
 
@@ -69,29 +69,29 @@ Technology Stacks
 **EchoEcho**, *Software Engineering Intern*  
 Oakland, CA (Remote) - JUNE 2020 – PRESENT
 
->-   Rebuild over 60% of site pages with reusable React components and responsive UI translated from wireframes
->-   Enhance user engagement by architecting the in-app toast notification system and automated product walk-through using Redux   
->-   Increased test coverage of functions by 21%, branches and statements by 10%, and total lines by 9% using TDD for new code and adding unit tests for legacy features
+-   Rebuild over 60% of site pages with reusable React components and responsive UI translated from wireframes
+-   Enhance user engagement by architecting the in-app toast notification system and automated product walk-through using Redux   
+-   Increased test coverage of functions by 21%, branches and statements by 10%, and total lines by 9% using TDD for new code and adding unit tests for legacy features
     
 
 **Epicodus**, *Team Week Development Lead and Project Manager*  
 Seattle, WA - FEBRUARY 2020 & APRIL 2020
 
->-   Advanced product development timeline by 20% using stand-ups, CI/CD and GitHub code reviews to manage product and handle interface-to-backend integration
+-   Advanced product development timeline by 20% using stand-ups, CI/CD and GitHub code reviews to manage product and handle interface-to-backend integration
 
 
 
 **Sisters Interior Redesign**, *Assistant Manager* and *Assistant Designer*  
 Edmonds, WA - JUNE 2017 – JANUARY 2020
 
->-   Increased project volume efficiency by 50% by improving SOPs to branch tasks and eliminate redundancy    
->-   Increased sale values up to $50,000 by maximizing utility and aestheticism in 300+ compelling user experiences
+-   Increased project volume efficiency by 50% by improving SOPs to branch tasks and eliminate redundancy    
+-   Increased sale values up to $50,000 by maximizing utility and aestheticism in 300+ compelling user experiences
     
 
 **STEM Tutoring**, *Freelance  Academic Tutor*  
 Edmonds, WA & Berlin, DE - SEPTEMBER 2009 – DECEMBER 2018
 
->-   Improved scores up to 35% for students from 6+ language backgrounds by personalizing curriculum in calculus, geometry, algebra, chemistry, biology, and syntax using advanced quantitative reasoning skills on example problem analysis, theory, and test-taking techniques
+-   Improved scores up to 35% for students from 6+ language backgrounds by personalizing curriculum in calculus, geometry, algebra, chemistry, biology, and syntax using advanced quantitative reasoning skills on example problem analysis, theory, and test-taking techniques
     
 
 ## PROJECTS
@@ -105,22 +105,22 @@ Edmonds, WA & Berlin, DE - SEPTEMBER 2009 – DECEMBER 2018
 #### **Pomona College**, *B.A. in International Relations*
 
 Claremont, CA - AUGUST 2013 – MAY 2017 | 3.8 GPA
-> Coursework in Computer Science, Linguistics, and Art departments
-> Received a research grant to complete thesis in nationally ranked interdisciplinary social sciences program encompassing politics, economics, statistics, history, foreign languages, anthropology, and sociology
+- Coursework in Computer Science, Linguistics, and Art departments
+- Received a research grant to complete thesis in nationally ranked interdisciplinary social sciences program encompassing politics, economics, statistics, history, foreign languages, anthropology, and sociology
 #### **Epicodus**, *Mobile and Web Development Certificate*
 Seattle, WA - JANUARY 2020 – MAY 2020
-> 1000+ hours of full-stack experience, designing and implementing features for over 60 robust web applications, databases, and APIs
+- 1000+ hours of full-stack experience, designing and implementing features for over 60 robust web applications, databases, and APIs
     
 
 
 ##  HONORS
 
 #### Fulbright Scholar, *September 2017 - July 2018*
-***Diversity Program** Teaching grantee in Berlin, Germany*
+>***Diversity Program** Teaching grantee in Berlin, Germany*
 #### Senior Thesis Research Grant, *October 2016*
-*Received Politics Department grant funding to complete thesis research in Istanbul, Turkey, and Brussels, Belgium*
+>*Received Politics Department grant funding to complete thesis research in Istanbul, Turkey, and Brussels, Belgium*
 #### 1st Place: Novice Category, *November 2014*
-*5C Hackathon in Claremont, CA*
+> Developed alcohol safety mobile application at *5C Hackathon in Claremont, CA*
 
   
 
@@ -132,7 +132,7 @@ Seattle, WA - JANUARY 2020 – MAY 2020
 -   International student mentor and host
 -   I love to hike, ski, and cook as well!
 
-## Contact Information
+## CONTACT INFORMATION
 
 | Helpful Links                                      |  | 
 | :-------------------------------------------- | :----------- | 
@@ -144,6 +144,6 @@ Seattle, WA - JANUARY 2020 – MAY 2020
 
 
 ---
-[BACK TO TOP :top:](#Krista-Rutz) • [CONTACT](#Contact-information) • [SKILLS](#Core-competencies-&-skills) • [EXPERIENCE](#Experience) • [EDUCATION](#Education) • [PROJECTS](#Projects) • [HONORS](#Honors)
+[BACK TO TOP :top:](#Krista-Rutz) • [SKILLS](#Core-competencies--skills) • [EXPERIENCE](#Experience) • [EDUCATION](#Education) • [PROJECTS](#Projects) • [HONORS](#Honors) • [CONTACT](#Contact-information)
 
 ---
