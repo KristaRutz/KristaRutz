@@ -1,20 +1,18 @@
 # Krista Rutz
 
+
+### <kristarutz@gmail.com> • (206)-556-8247 
+
+[kristarutz.com](http://www.kristarutz.com "Krista's personal site") • [LinkedIn](http://www.linkedin.com/in/kristarutz "Krista's LinkedIn profile") • [GitHub](http://www.github.com/KristaRutz "Krista's GitHub portfolio")
+
+
 #### Recent graduate of a coding academy with experience developing full stack software applications in languages such as JavaScript and C#, designing and programming intuitive user experiences, and iterating through difficult problems to build more efficient solutions on cross-functional teams.
 
+---
 
 [CONTACT](#Contact-information) • [SKILLS](#Core-competencies-&-skills) • [EXPERIENCE](#Experience) • [EDUCATION](#Education) • [PROJECTS](#Projects) • [HONORS](#Honors)
 
-### Contact Information
-> Email me at <kristarutz@gmail.com>
-
-> Connect with me at (206)-556-8247
-
-> See my personal site at [KristaRutz.com](http://www.kristarutz.com)
-
-> View my experience on [LinkedIn](http://www.linkedin.com/in/kristarutz)
-
-> Check out my code projects on [GitHub](http://www.github.com/KristaRutz)
+---
 
 
 ## CORE COMPETENCIES & SKILLS
@@ -98,35 +96,31 @@ Edmonds, WA & Berlin, DE - SEPTEMBER 2009 – DECEMBER 2018
 
 ## PROJECTS
 
-#### [StoryJam Collaborative Writing Application](http://story-jam.firebaseapp.com/)
->-   Uses React, Firebase, and NoSQL database to allow flexible shape of project data based on user activity
->-   Utilizes authentication and authorization in a simple, modern UI based on pen-and-paper game to build a story
-
-#### [National Parks API](http://github.com/KristaRutz/National_Parks_API)
->-   RESTful API in C# using JSON data and MySQL database, with multiple query term endpoints
-
-#### [Zine Maker Platform](http://github.com/ZineMaker/ZineClient.Solution)
->-   Mobile-friendly ASP .NET Core MVC project allows users to curate shared digital magazine publications for web
+| [StoryJam Collaborative Writing Application](http://story-jam.firebaseapp.com/) | [National Parks API](http://github.com/KristaRutz/National_Parks_API) |  [Zine Maker Platform](http://github.com/ZineMaker/ZineClient.Solution) |
+| :--- | :--- | :--- | 
+| - React and Firebase with NoSQL database to allow flexible shape of project data based on user activity <br> - Utilizes authentication and authorization in a simple, modern UI based on pen-and-paper game to build a story | -   RESTful API in C# using JSON data and MySQL database, with multiple thoroughly documented endpoints and query terms  <br> - Crowd-sources data about National Park metadata and current closures during COVID-19 | - Collaborative project made through pair-programming <br> - Mobile-friendly ASP .NET Core MVC project allows users to curate shared digital magazine publications for web <br> - Emphasis on UI and strong relational database design|
     
 
 ## EDUCATION
+#### **Pomona College**, *B.A. in International Relations*
 
-**Epicodus**, *Mobile and Web Development Certificate*
+Claremont, CA - AUGUST 2013 – MAY 2017 | 3.8 GPA
+> Coursework in Computer Science, Linguistics, and Art departments
+> Received a research grant to complete thesis in nationally ranked interdisciplinary social sciences program encompassing politics, economics, statistics, history, foreign languages, anthropology, and sociology
+#### **Epicodus**, *Mobile and Web Development Certificate*
 Seattle, WA - JANUARY 2020 – MAY 2020
->1000+ hours of full-stack experience, designing and implementing features for over 60 robust web applications, databases, and APIs
+> 1000+ hours of full-stack experience, designing and implementing features for over 60 robust web applications, databases, and APIs
     
-**Pomona College**, *B.A. in International Relations*
- Claremont, CA - AUGUST 2013 – MAY 2017 | 3.8 GPA
+
 
 ##  HONORS
 
-##### Fulbright Scholar, September 2017 - July 2018
-
-Diversity Program grantee in Berlin, Germany
-
-##### 1st Place: Novice Category, November 2014
-
-5C Hackathon in Claremont, CA
+#### Fulbright Scholar, *September 2017 - July 2018*
+***Diversity Program** Teaching grantee in Berlin, Germany*
+#### Senior Thesis Research Grant, *October 2016*
+*Received Politics Department grant funding to complete thesis research in Istanbul, Turkey, and Brussels, Belgium*
+#### 1st Place: Novice Category, *November 2014*
+*5C Hackathon in Claremont, CA*
 
   
 
@@ -136,3 +130,20 @@ Diversity Program grantee in Berlin, Germany
 -   Visual Arts: Photography, hand lettering, linocut printmaking and watercolor work    
 -   Volunteer Teaching at bilingual Berlin public school    
 -   International student mentor and host
+-   I love to hike, ski, and cook as well!
+
+## Contact Information
+
+| Helpful Links                                      |  | 
+| :-------------------------------------------- | :----------- | 
+| Email | <kristarutz@gmail.com> |
+| Phone | (206)-556-8247 |
+| Portfolio | [KristaRutz.com](http://www.kristarutz.com) |
+| LinkedIn Resume | [LinkedIn.com/in/KristaRutz](http://www.linkedin.com/in/kristarutz) |
+| GitHub | [GitHub.com/KristaRutz](http://www.github.com/KristaRutz) |
+
+
+---
+[BACK TO TOP :top:](#Krista-Rutz) • [CONTACT](#Contact-information) • [SKILLS](#Core-competencies-&-skills) • [EXPERIENCE](#Experience) • [EDUCATION](#Education) • [PROJECTS](#Projects) • [HONORS](#Honors)
+
+---
