@@ -92,7 +92,8 @@ Edmonds, WA & Berlin, DE - SEPTEMBER 2009 – DECEMBER 2018
 
 Claremont, CA - AUGUST 2013 – MAY 2017 | 3.8 GPA
 - Coursework in Computer Science, Linguistics, and Art departments
-- Received a research grant to complete thesis in nationally ranked interdisciplinary social sciences program encompassing politics, economics, statistics, history, foreign languages, anthropology, and sociology
+- Nationally ranked interdisciplinary social sciences program encompassing politics, economics, statistics, history, foreign languages, anthropology, and sociology
+- Study abroad semesters in Freiburg, Germany and Istanbul, Turkey
 #### **Epicodus**, *Mobile and Web Development Certificate*
 Seattle, WA - JANUARY 2020 – MAY 2020
 - 1000+ hours of full-stack experience, designing and implementing features for over 60 robust web applications, databases, and APIs 
@@ -120,9 +121,9 @@ Seattle, WA - JANUARY 2020 – MAY 2020
 
 ## PERSONAL INTERESTS
 
--   Foreign Language: Academic and immersive study in Spanish, German, Turkish, Russian, & more
--   Visual Arts: Photography, hand lettering, linocut printmaking and watercolor work    
--   Volunteer Teaching at bilingual Berlin public school    
+-   Foreign language: academic and immersive study in Spanish, German, Turkish, Russian, & more
+-   Visual arts: photography, hand lettering, linocut printmaking and watercolor work    
+-   Volunteer teaching at bilingual Berlin public school    
 -   International student mentor and host
 -   I love to hike, ski, and cook as well!
 
