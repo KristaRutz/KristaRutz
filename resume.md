@@ -1,15 +1,20 @@
 # Krista Rutz
 
-FULLSTACK SOFTWARE ENGINEER • JavaScript and C#
+#### Recent graduate of a coding academy with experience developing full stack software applications in languages such as JavaScript and C#, designing and programming intuitive user experiences, and iterating through difficult problems to build more efficient solutions on cross-functional teams.
 
-[CONTACT](#Contact-information) • [SKILLS](#Core-competencies-&-skills) • EXPERIENCE • EDUCATION • PROJECTS • HONORS
+
+[CONTACT](#Contact-information) • [SKILLS](#Core-competencies-&-skills) • [EXPERIENCE](#Experience) • [EDUCATION](#Education) • [PROJECTS](#Projects) • [HONORS](#Honors)
 
 ### Contact Information
-> <kristarutz@gmail.com>
-> (206)-556-8247
-> [KristaRutz.com](http://www.kristarutz.com)
-> [LinkedIn](http://www.linkedin.com/in/kristarutz)
-> [GitHub](http://www.github.com/KristaRutz)
+> Email me at <kristarutz@gmail.com>
+
+> Connect with me at (206)-556-8247
+
+> See my personal site at [KristaRutz.com](http://www.kristarutz.com)
+
+> View my experience on [LinkedIn](http://www.linkedin.com/in/kristarutz)
+
+> Check out my code projects on [GitHub](http://www.github.com/KristaRutz)
 
 
 ## CORE COMPETENCIES & SKILLS
@@ -17,13 +22,14 @@ FULLSTACK SOFTWARE ENGINEER • JavaScript and C#
 Paradigms
 -  Object-oriented programming
 -  Functional programming  
--  Front-end UX/UI development 
+-  Front-end UX/UI development
+-  Test-driven development and behavior-driven development
 -  RESTful web services and APIs
 -  SQL and NoSQL database design and implementation
 
 Technology Stacks
 - <details>
-    <summary><strong>JavaScript Programming & React<strong></summary>
+    <summary>JavaScript Programming & React</summary>
     <ul>
         <li>ES6 proficiency</li>
         <li>Node.js Framework, npm</li>
@@ -34,11 +40,12 @@ Technology Stacks
                 <li>styled components</li>
             </ul>
         </li>
+        <li>JSON</li>
         <li>jQuery</li>
         <li>Jest testing</li>
     </ul></details>
 - <details>
-    <summary><strong>C# Programming<strong></summary>
+    <summary>C# Programming</summary>
     <ul>
         <li>.NET Core framework</li>
         <li>Razor pages</li>
@@ -48,21 +55,18 @@ Technology Stacks
 -  Java
 -  HTML5 and CSS
 -  Git version control software and GitHub
+-  Firebase
 -  <details>
-    <summary><strong>Graphic Design<strong></summary>
-    <ul>
-        <li>Figma</li>
-        <li>Adobe Creative Suite
-            <ul>    
-                <li>Photoshop</li>
-                <li>Illustrator</li>
-                <li>Lightroom</li>
-            </ul>
-        </li>
+    <summary>Adobe Creative Suite</summary>
+    <ul>  
+        <li>Photoshop</li>
+        <li>Illustrator</li>
+        <li>Lightroom</li>
     </ul></details>
+- Figma
   
 
-## DEVELOPMENT EXPERIENCE
+##  EXPERIENCE
 
 **EchoEcho**, *Software Engineering Intern*  
 Oakland, CA (Remote) - JUNE 2020 – PRESENT
@@ -75,9 +79,9 @@ Oakland, CA (Remote) - JUNE 2020 – PRESENT
 **Epicodus**, *Team Week Development Lead and Project Manager*  
 Seattle, WA - FEBRUARY 2020 & APRIL 2020
 
->-   Advanced product development timeline by 20% using stand-ups, CI/CD and GitHub code reviews to manage product and handling interface-to-backend integration
+>-   Advanced product development timeline by 20% using stand-ups, CI/CD and GitHub code reviews to manage product and handle interface-to-backend integration
 
-## ADDITIONAL EXPERIENCE
+
 
 **Sisters Interior Redesign**, *Assistant Manager* and *Assistant Designer*  
 Edmonds, WA - JUNE 2017 – JANUARY 2020
