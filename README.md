@@ -18,7 +18,7 @@ New opportunities! I love learning and taking on a breadth of responsibilities a
 - 😄 Pronouns: she/hers
 - 🌱 Interests: ["food", "art", "travel", "linguistics", "data science", "data visualization", "ed-tech", "maps", "literature", "design"]
 
-![I have real product experience!](https://github.com/KristaRutz/KristaRutz/blob/master/Collab_GIF-2-1.gif)
+![I have real product experience!](https://github.com/KristaRutz/KristaRutz/blob/master/assets/Collab_GIF-2-1.gif)
 
 <!--
 **KristaRutz/KristaRutz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
