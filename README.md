@@ -1,14 +1,14 @@
 ![Hello, I'm Krista Rutz: Software Engineer and Web Developer](https://github.com/KristaRutz/KristaRutz/blob/master/bio-header.png)
 
-## I'm an incoming _Software Engineer Leap Apprentice_ at Microsoft.
+## I'm a Leap _Software Engineer Apprentice_ at Microsoft.
 
 #### **Currently** ..
 
-I'm working on [Oranga App](www.github.com/KristaRutz/oranga-app) with a cross-functional team from Co.Lab to develop therapeutic technology for burnt-out professionals. I'm the lead dev on this JS/React project.
+I'm working as part of Leap _Cohort 23_, a Microsoft initiative to bring more diversity into tech by seeking out people from a variety on non-traditional backgrounds.
 
 #### **In the past** ..
 
-I've always been analytical, solution-oriented, and high achieving. I have been a math and science tutor, a Fulbright Scholar, and a hackathon winner. I maintain a high level of growth and achievement in developing my technical expertise, acquiring full-stack JavaScript and C# skills with over 1000 hours of coding experience in personal projects, coding and computer science courses, and as a development intern. In my position at [@EchoEcho](www.github.com/echoecho) as a Software Engineer Intern, I worked mainly with React to engineer a front-end client application. **Technologies:** HTML5, CSS, ES6, TDD, Agile development practices, Redux, Node, RESTful APIs, Docker, Jest unit testing, and SQL databases
+I've always been analytical, solution-oriented, and high achieving. I have been a math and science tutor, a Fulbright Scholar, and a hackathon winner. I maintain a high level of growth and achievement in developing my technical expertise, acquiring full-stack JavaScript and C# skills with over 1000 hours of coding experience in personal projects, coding and computer science courses, and as a development intern. In my position at [@EchoEcho](www.github.com/echoecho) as a Software Engineer Intern, I worked mainly with React to engineer a front-end client application. I also led development of [Oranga App](www.github.com/KristaRutz/oranga-app) with a cross-functional team from Co.Lab to develop therapeutic technology for burnt-out professionals. **Technologies:** HTML5, CSS, ES6, TDD, Agile development practices, Redux, Node, RESTful APIs, Docker, Jest unit testing, and SQL databases
 
 #### **I'm looking for** ..
 
